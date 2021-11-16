@@ -15,7 +15,7 @@ There will be several homework assignments done for this course.
 [Here](files/homework1.ipynb) is the jupyter notebook of homework 1.
 
 
-### Homework Assignment 1
+### Homework Assignment 2
 
 [Here](files/IE582_Fall21_Homework2.pdf) is the description of homework 2
 
