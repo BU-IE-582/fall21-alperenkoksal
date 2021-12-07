@@ -22,3 +22,11 @@ There will be several homework assignments done for this course.
 [Here](files/homework2.html)  are Dimensionality Reduction, Reconstructing Turkey Map with MDS, PCA to Time Series Data work.
 
 [Here](files/homework2.ipynb) is the jupyter notebook of homework 2.
+
+### Homework Assignment 3
+
+[Here](files/IE582_Fall21_Homework3.pdf) is the description of homework 3
+
+[Here](files/homework3.html)  are KNN Classification and Logistic Regression on UWaveGesture Data work.
+
+[Here](files/homework3.ipynb) is the jupyter notebook of homework 3.
