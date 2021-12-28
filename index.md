@@ -30,3 +30,11 @@ There will be several homework assignments done for this course.
 [Here](files/homework3.html)  are KNN Classification and Logistic Regression on UWaveGesture Data work.
 
 [Here](files/homework3.ipynb) is the jupyter notebook of homework 3.
+
+### Homework Assignment 4
+
+[Here](files/IE582_Fall21_Homework4.pdf) is the description of homework 4.
+
+[Here](files/homework4.html)  are Multiple Instance Learning work.
+
+[Here](files/homework4.ipynb) is the jupyter notebook of homework 4.
