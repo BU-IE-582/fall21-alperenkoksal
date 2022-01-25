@@ -38,3 +38,11 @@ There will be several homework assignments done for this course.
 [Here](files/homework4.html)  are Multiple Instance Learning work.
 
 [Here](files/homework4.ipynb) is the jupyter notebook of homework 4.
+
+### Project
+
+[Here](files/IE582_Fall21_Project.pdf) is the description of Project.
+
+[Here](files/ProjectReport.html) is the report of the Project.
+
+
